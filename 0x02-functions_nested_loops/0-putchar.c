@@ -1,6 +1,7 @@
 #include "main.h"
 
-/** main - check description
+/**
+ * main - expented to print _putchar
  *
  * Return: 0 successfully
  */
